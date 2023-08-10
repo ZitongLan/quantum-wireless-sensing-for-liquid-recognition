@@ -1,16 +1,14 @@
 # content
 
-**all_data.txt** refers to dataset of 17 liquids recognition
+`all_data.txt`  refers to dataset of 17 liquids recognition
 
-**train.ipynb** refers to training and testing program for the data
-
-
+` train.ipynb`  refers to training and testing program for the data
 
 File:
 
-**milk_detection** contains transfer learning task (code and datasets) for milk PH detection
+`milk_detection`  contains transfer learning task (code and datasets) for milk PH detection
 
-**salt_concentration**  contains transfer learning task (code and datasets) for salt concentration detect
+`salt_concentration`  contains transfer learning task (code and datasets) for salt concentration detect
 
 
 
